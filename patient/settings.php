@@ -128,7 +128,7 @@
                                 </p>
                                 <p class="heading-sub12" style="padding: 0;margin: 0;">
                                     <?php 
-                                date_default_timezone_set('Asia/Kolkata');
+                                date_default_timezone_set('Africa/Addis_Ababa');
         
                                 $today = date('Y-m-d');
                                 echo $today;
